@@ -9,13 +9,6 @@ I am an amateur game dev that had worked with multiple teams in regards on makin
 
 
 
-
-
-
-
-
-
-_source: https://www.instagram.com/ayra0114/?hl=en_
 <!--
 **managelui07-dotcom/managelui07-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
